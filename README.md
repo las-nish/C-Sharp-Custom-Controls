@@ -23,8 +23,8 @@ List of the Controls
 
 ## Screenshots
 
-![Image 01](New Project Screen.PNG)
+![Image 01](New_Project_Screen.PNG)
 
-![Image 02](Main Screen.PNG)
+![Image 02](Main_Screen.PNG)
 
-![Image 03](Debug Menu.png)
+![Image 03](Debug_Menu.png)
